@@ -6,7 +6,10 @@ CSV Splitter is a Node.js application I built to help my wife with her holiday c
 
 ### Prerequisites
 
-- Node.js: Make sure you have Node.js installed on your computer. You can download it from https://nodejs.org/
+- Node.js: Make sure you have Node.js installed on your computer. 
+### Install dependancies
+
+-npm install
 
 ### Installation
 

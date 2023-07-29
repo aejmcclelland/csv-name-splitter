@@ -1,6 +1,6 @@
 # CSV Splitter
 
-CSV Splitter is a Node.js application that takes a CSV file with a "full name" column and splits it into "first name" and "surname" columns. It's a useful tool for quickly organizing and processing CSV data with names.
+CSV Splitter is a Node.js application I built to help my wife with her holiday club forms. It takes a CSV file with a "full name" column and splits it into "first name" and "surname" columns. It's a useful tool for quickly organizing and processing CSV data with names.
 
 ## Getting Started
 

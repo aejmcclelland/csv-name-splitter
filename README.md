@@ -39,7 +39,7 @@ Make sure the header contains a "full name" column, and the data rows have corre
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- MIT License 
 
 ## Acknowledgments
 
